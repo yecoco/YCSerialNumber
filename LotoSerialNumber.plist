@@ -1,0 +1,7 @@
+{ 
+  Filter = {
+  		Executables = ( "configd", "absd", "fairplayd.H1", "gamed", "adid", "ptpd");
+  		Bundles = ( "com.apple.UIKit", "com.apple.itunesstored", "com.apple.Preferences", "com.apple.backupd", "com.apple.syncdefaultsd", "com.apple.AppStore", "com.apple.FamilyCircle", "com.apple.StoreBookkeeperClient", "com.apple.StoreBookkeeper", "com.apple.AdSheetPhone" );
+  		Mode = "Any";
+	};
+}

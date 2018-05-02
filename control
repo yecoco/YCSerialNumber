@@ -1,0 +1,9 @@
+Package: com.lotogram.lotoserialnumber
+Name: LotoSerialNumber
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change Hardware SN on-the-fly!
+Maintainer: Shawn Lin
+Author: Shawn Lin
+Section: Tweaks
